@@ -1,5 +1,13 @@
 package main
 
-func main()  {
 
+
+
+
+
+func main() {
+
+
+
+	var x = scopes.Three
 }

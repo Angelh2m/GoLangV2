@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee7254b-172e-47d8-a801-42224c6d8ea3" name="Default Changelist" comment="" />
+    <list default="true" id="6ee7254b-172e-47d8-a801-42224c6d8ea3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Embedding.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoRoutineChannel.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoRutine.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ifs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterfacePointers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interfaces.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maps.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleGetCall.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleServer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slices.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Struct.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UseMethods.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functionPointer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaceType.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iota.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
@@ -48,6 +73,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
